@@ -400,27 +400,6 @@ solid Mesh
   endfacet
   facet normal 0 0 -1
     outer loop
-      vertex -162.526 46.4112 -95.5
-      vertex -162.858 46.1569 -95.5
-      vertex -163.372 47.8756 -95.5
-    endloop
-  endfacet
-  facet normal 0 0 -1
-    outer loop
-      vertex -163.372 42.1756 -95.5
-      vertex -162.858 43.8942 -95.5
-      vertex -162.526 43.6399 -95.5
-    endloop
-  endfacet
-  facet normal 0 0 -1
-    outer loop
-      vertex -160.181 44.6114 -95.5
-      vertex -160.126 45.0256 -95.5
-      vertex -158.435 45.0256 -95.5
-    endloop
-  endfacet
-  facet normal 0 0 -1
-    outer loop
       vertex -163.272 45.4397 -95.5
       vertex -163.326 45.0256 -95.5
       vertex -165.017 45.0256 -95.5
@@ -428,6 +407,13 @@ solid Mesh
   endfacet
   facet normal 0 0 -1
     outer loop
+      vertex -162.526 46.4112 -95.5
+      vertex -162.858 46.1569 -95.5
+      vertex -163.372 47.8756 -95.5
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
       vertex -163.326 45.0256 -95.5
       vertex -163.272 44.6114 -95.5
       vertex -165.017 45.0256 -95.5
@@ -435,23 +421,30 @@ solid Mesh
   endfacet
   facet normal 0 0 -1
     outer loop
-      vertex -165.017 45.0256 -95.5
       vertex -163.272 44.6114 -95.5
-      vertex -163.372 42.1756 -95.5
+      vertex -163.112 44.2256 -95.5
+      vertex -165.017 45.0256 -95.5
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-      vertex -163.272 44.6114 -95.5
+      vertex -165.017 45.0256 -95.5
       vertex -163.112 44.2256 -95.5
       vertex -163.372 42.1756 -95.5
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-      vertex -163.372 42.1756 -95.5
       vertex -163.112 44.2256 -95.5
       vertex -162.858 43.8942 -95.5
+      vertex -163.372 42.1756 -95.5
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex -163.372 42.1756 -95.5
+      vertex -162.858 43.8942 -95.5
+      vertex -162.526 43.6399 -95.5
     endloop
   endfacet
   facet normal 0 0 -1
@@ -491,30 +484,72 @@ solid Mesh
   endfacet
   facet normal 0 0 -1
     outer loop
-      vertex -161.312 43.4801 -95.5
-      vertex -160.081 42.1756 -95.5
-      vertex -161.726 43.4256 -95.5
-    endloop
-  endfacet
-  facet normal 0 0 -1
-    outer loop
-      vertex -160.081 42.1756 -95.5
-      vertex -163.372 42.1756 -95.5
-      vertex -161.726 43.4256 -95.5
-    endloop
-  endfacet
-  facet normal 0 0 -1
-    outer loop
-      vertex -161.726 43.4256 -95.5
-      vertex -163.372 42.1756 -95.5
-      vertex -162.14 43.4801 -95.5
-    endloop
-  endfacet
-  facet normal 0 0 -1
-    outer loop
-      vertex -163.372 42.1756 -95.5
       vertex -162.526 43.6399 -95.5
       vertex -162.14 43.4801 -95.5
+      vertex -163.372 42.1756 -95.5
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex -162.14 43.4801 -95.5
+      vertex -161.726 43.4256 -95.5
+      vertex -163.372 42.1756 -95.5
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex -163.372 42.1756 -95.5
+      vertex -161.726 43.4256 -95.5
+      vertex -160.081 42.1756 -95.5
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex -161.726 43.4256 -95.5
+      vertex -161.312 43.4801 -95.5
+      vertex -160.081 42.1756 -95.5
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex -160.081 42.1756 -95.5
+      vertex -161.312 43.4801 -95.5
+      vertex -160.926 43.6399 -95.5
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex -160.926 43.6399 -95.5
+      vertex -160.595 43.8942 -95.5
+      vertex -160.081 42.1756 -95.5
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex -160.595 43.8942 -95.5
+      vertex -160.341 44.2256 -95.5
+      vertex -160.081 42.1756 -95.5
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex -160.081 42.1756 -95.5
+      vertex -160.341 44.2256 -95.5
+      vertex -158.435 45.0256 -95.5
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex -160.341 44.2256 -95.5
+      vertex -160.181 44.6114 -95.5
+      vertex -158.435 45.0256 -95.5
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
+      vertex -158.435 45.0256 -95.5
+      vertex -160.181 44.6114 -95.5
+      vertex -160.126 45.0256 -95.5
     endloop
   endfacet
   facet normal 0 0 -1
@@ -536,41 +571,6 @@ solid Mesh
       vertex -165.017 45.0256 -95.5
       vertex -163.112 45.8256 -95.5
       vertex -163.272 45.4397 -95.5
-    endloop
-  endfacet
-  facet normal 0 0 -1
-    outer loop
-      vertex -161.312 43.4801 -95.5
-      vertex -160.926 43.6399 -95.5
-      vertex -160.081 42.1756 -95.5
-    endloop
-  endfacet
-  facet normal 0 0 -1
-    outer loop
-      vertex -160.926 43.6399 -95.5
-      vertex -160.595 43.8942 -95.5
-      vertex -160.081 42.1756 -95.5
-    endloop
-  endfacet
-  facet normal 0 0 -1
-    outer loop
-      vertex -160.081 42.1756 -95.5
-      vertex -160.595 43.8942 -95.5
-      vertex -158.435 45.0256 -95.5
-    endloop
-  endfacet
-  facet normal 0 0 -1
-    outer loop
-      vertex -160.595 43.8942 -95.5
-      vertex -160.341 44.2256 -95.5
-      vertex -158.435 45.0256 -95.5
-    endloop
-  endfacet
-  facet normal 0 0 -1
-    outer loop
-      vertex -158.435 45.0256 -95.5
-      vertex -160.341 44.2256 -95.5
-      vertex -160.181 44.6114 -95.5
     endloop
   endfacet
   facet normal 0 0 -1
@@ -11201,30 +11201,16 @@ solid Mesh
   endfacet
   facet normal 0 -1 0
     outer loop
-      vertex -96.0808 47.8756 -98
-      vertex -96.0808 47.8756 -97.8818
-      vertex -99.3717 47.8756 -98
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-      vertex -96.0808 47.8756 -97.8818
-      vertex -96.7895 47.8756 -97.3
-      vertex -99.3717 47.8756 -98
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-      vertex -96.0808 47.8756 -96.4182
-      vertex -96.0808 47.8756 -95.5
-      vertex -96.7895 47.8756 -97
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-      vertex -96.0808 47.8756 -95.5
       vertex -99.3717 47.8756 -95.5
-      vertex -96.7895 47.8756 -97
+      vertex -99.3717 47.8756 -96.4182
+      vertex -96.0808 47.8756 -95.5
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex -99.3717 47.8756 -96.4182
+      vertex -98.663 47.8756 -97
+      vertex -96.0808 47.8756 -95.5
     endloop
   endfacet
   facet normal 0 -1 0
@@ -11237,36 +11223,50 @@ solid Mesh
   facet normal 0 -1 0
     outer loop
       vertex -99.3717 47.8756 -98
-      vertex -96.7895 47.8756 -97.3
+      vertex -96.0808 47.8756 -98
       vertex -98.663 47.8756 -97.3
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
+      vertex -96.0808 47.8756 -96.4182
+      vertex -96.0808 47.8756 -95.5
+      vertex -96.7895 47.8756 -97
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex -96.0808 47.8756 -95.5
+      vertex -98.663 47.8756 -97
+      vertex -96.7895 47.8756 -97
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex -96.7895 47.8756 -97
+      vertex -98.663 47.8756 -97
+      vertex -96.7895 47.8756 -97.3
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex -98.663 47.8756 -97
       vertex -98.663 47.8756 -97.3
       vertex -96.7895 47.8756 -97.3
-      vertex -98.663 47.8756 -97
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
       vertex -96.7895 47.8756 -97.3
-      vertex -96.7895 47.8756 -97
-      vertex -98.663 47.8756 -97
+      vertex -98.663 47.8756 -97.3
+      vertex -96.0808 47.8756 -97.8818
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-      vertex -98.663 47.8756 -97
-      vertex -96.7895 47.8756 -97
-      vertex -99.3717 47.8756 -96.4182
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-      vertex -96.7895 47.8756 -97
-      vertex -99.3717 47.8756 -95.5
-      vertex -99.3717 47.8756 -96.4182
+      vertex -98.663 47.8756 -97.3
+      vertex -96.0808 47.8756 -98
+      vertex -96.0808 47.8756 -97.8818
     endloop
   endfacet
   facet normal -1 0 0
@@ -11493,20 +11493,6 @@ solid Mesh
       vertex -132.761 -69.7754 -98
     endloop
   endfacet
-  facet normal 0.866025 0.500002 0
-    outer loop
-      vertex -101.017 45.0256 -96.4182
-      vertex -101.017 45.0256 -95.5
-      vertex -100.663 44.4118 -97
-    endloop
-  endfacet
-  facet normal 0.866026 0.499999 1.12602e-6
-    outer loop
-      vertex -101.017 45.0256 -95.5
-      vertex -99.3717 42.1756 -95.5
-      vertex -100.663 44.4118 -97
-    endloop
-  endfacet
   facet normal 0.866026 0.499999 0
     outer loop
       vertex -101.017 45.0256 -98
@@ -11519,6 +11505,20 @@ solid Mesh
       vertex -101.017 45.0256 -97.8818
       vertex -100.663 44.4118 -97.3
       vertex -99.3717 42.1756 -98
+    endloop
+  endfacet
+  facet normal 0.866025 0.500002 0
+    outer loop
+      vertex -101.017 45.0256 -96.4182
+      vertex -101.017 45.0256 -95.5
+      vertex -100.663 44.4118 -97
+    endloop
+  endfacet
+  facet normal 0.866026 0.499999 1.12602e-6
+    outer loop
+      vertex -101.017 45.0256 -95.5
+      vertex -99.3717 42.1756 -95.5
+      vertex -100.663 44.4118 -97
     endloop
   endfacet
   facet normal 0.866026 0.499999 0
@@ -11591,20 +11591,6 @@ solid Mesh
       vertex -100.663 45.6393 -97.3
     endloop
   endfacet
-  facet normal 0.866026 -0.499999 0
-    outer loop
-      vertex -101.017 45.0256 -95.5
-      vertex -101.017 45.0256 -96.4182
-      vertex -99.3717 47.8756 -95.5
-    endloop
-  endfacet
-  facet normal 0.866026 -0.499999 -2.22706e-7
-    outer loop
-      vertex -101.017 45.0256 -96.4182
-      vertex -100.663 45.6393 -97
-      vertex -99.3717 47.8756 -95.5
-    endloop
-  endfacet
   facet normal 0.866025 -0.500002 0
     outer loop
       vertex -99.3717 47.8756 -96.4182
@@ -11612,39 +11598,53 @@ solid Mesh
       vertex -99.726 47.2618 -97
     endloop
   endfacet
-  facet normal 0.866026 -0.499999 -1.50819e-6
+  facet normal 0.866026 -0.499999 -1.12602e-6
     outer loop
       vertex -99.3717 47.8756 -95.5
-      vertex -100.663 45.6393 -97
+      vertex -101.017 45.0256 -95.5
       vertex -99.726 47.2618 -97
-    endloop
-  endfacet
-  facet normal 0.866026 -0.499999 0
-    outer loop
-      vertex -99.726 47.2618 -97
-      vertex -100.663 45.6393 -97
-      vertex -99.726 47.2618 -97.3
-    endloop
-  endfacet
-  facet normal 0.866026 -0.499999 0
-    outer loop
-      vertex -100.663 45.6393 -97
-      vertex -100.663 45.6393 -97.3
-      vertex -99.726 47.2618 -97.3
-    endloop
-  endfacet
-  facet normal 0.866026 -0.499999 3.88847e-6
-    outer loop
-      vertex -99.726 47.2618 -97.3
-      vertex -100.663 45.6393 -97.3
-      vertex -99.3717 47.8756 -97.8818
     endloop
   endfacet
   facet normal 0.866026 -0.5 0
     outer loop
-      vertex -100.663 45.6393 -97.3
       vertex -99.3717 47.8756 -98
       vertex -99.3717 47.8756 -97.8818
+      vertex -100.663 45.6393 -97.3
+    endloop
+  endfacet
+  facet normal 0.866026 -0.499999 3.88847e-6
+    outer loop
+      vertex -99.3717 47.8756 -97.8818
+      vertex -99.726 47.2618 -97.3
+      vertex -100.663 45.6393 -97.3
+    endloop
+  endfacet
+  facet normal 0.866026 -0.499999 0
+    outer loop
+      vertex -100.663 45.6393 -97.3
+      vertex -99.726 47.2618 -97.3
+      vertex -100.663 45.6393 -97
+    endloop
+  endfacet
+  facet normal 0.866026 -0.499999 0
+    outer loop
+      vertex -99.726 47.2618 -97.3
+      vertex -99.726 47.2618 -97
+      vertex -100.663 45.6393 -97
+    endloop
+  endfacet
+  facet normal 0.866026 -0.499999 6.86919e-7
+    outer loop
+      vertex -100.663 45.6393 -97
+      vertex -99.726 47.2618 -97
+      vertex -101.017 45.0256 -96.4182
+    endloop
+  endfacet
+  facet normal 0.866026 -0.499999 0
+    outer loop
+      vertex -99.726 47.2618 -97
+      vertex -101.017 45.0256 -95.5
+      vertex -101.017 45.0256 -96.4182
     endloop
   endfacet
   facet normal 0 1 0
@@ -19307,34 +19307,6 @@ solid Mesh
   endfacet
   facet normal 0 1 0
     outer loop
-      vertex -163.372 42.1756 -96.4182
-      vertex -163.372 42.1756 -95.5
-      vertex -162.663 42.1756 -97
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-      vertex -163.372 42.1756 -95.5
-      vertex -160.081 42.1756 -95.5
-      vertex -162.663 42.1756 -97
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-      vertex -163.372 42.1756 -98
-      vertex -163.372 42.1756 -97.8818
-      vertex -160.081 42.1756 -98
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-      vertex -163.372 42.1756 -97.8818
-      vertex -162.663 42.1756 -97.3
-      vertex -160.081 42.1756 -98
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
       vertex -160.081 42.1756 -97.8818
       vertex -160.081 42.1756 -98
       vertex -160.789 42.1756 -97.3
@@ -19343,36 +19315,64 @@ solid Mesh
   facet normal 0 1 0
     outer loop
       vertex -160.081 42.1756 -98
-      vertex -162.663 42.1756 -97.3
+      vertex -163.372 42.1756 -98
       vertex -160.789 42.1756 -97.3
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-      vertex -160.789 42.1756 -97.3
-      vertex -162.663 42.1756 -97.3
-      vertex -160.789 42.1756 -97
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-      vertex -162.663 42.1756 -97.3
-      vertex -162.663 42.1756 -97
-      vertex -160.789 42.1756 -97
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-      vertex -160.789 42.1756 -97
-      vertex -162.663 42.1756 -97
-      vertex -160.081 42.1756 -96.4182
-    endloop
-  endfacet
-  facet normal 0 1 0
-    outer loop
-      vertex -162.663 42.1756 -97
       vertex -160.081 42.1756 -95.5
       vertex -160.081 42.1756 -96.4182
+      vertex -163.372 42.1756 -95.5
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex -160.081 42.1756 -96.4182
+      vertex -160.789 42.1756 -97
+      vertex -163.372 42.1756 -95.5
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex -163.372 42.1756 -96.4182
+      vertex -163.372 42.1756 -95.5
+      vertex -162.663 42.1756 -97
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex -163.372 42.1756 -95.5
+      vertex -160.789 42.1756 -97
+      vertex -162.663 42.1756 -97
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex -162.663 42.1756 -97
+      vertex -160.789 42.1756 -97
+      vertex -162.663 42.1756 -97.3
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex -160.789 42.1756 -97
+      vertex -160.789 42.1756 -97.3
+      vertex -162.663 42.1756 -97.3
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex -162.663 42.1756 -97.3
+      vertex -160.789 42.1756 -97.3
+      vertex -163.372 42.1756 -97.8818
+    endloop
+  endfacet
+  facet normal 0 1 0
+    outer loop
+      vertex -160.789 42.1756 -97.3
+      vertex -163.372 42.1756 -98
+      vertex -163.372 42.1756 -97.8818
     endloop
   endfacet
   facet normal 0 0 -1
@@ -19599,20 +19599,6 @@ solid Mesh
       vertex -164.663 45.6393 -97.3
     endloop
   endfacet
-  facet normal 0.866026 -0.499999 0
-    outer loop
-      vertex -165.017 45.0256 -95.5
-      vertex -165.017 45.0256 -96.4182
-      vertex -163.372 47.8756 -95.5
-    endloop
-  endfacet
-  facet normal 0.866026 -0.499999 -2.22706e-7
-    outer loop
-      vertex -165.017 45.0256 -96.4182
-      vertex -164.663 45.6393 -97
-      vertex -163.372 47.8756 -95.5
-    endloop
-  endfacet
   facet normal 0.866025 -0.500002 0
     outer loop
       vertex -163.372 47.8756 -96.4182
@@ -19620,39 +19606,53 @@ solid Mesh
       vertex -163.726 47.2618 -97
     endloop
   endfacet
-  facet normal 0.866026 -0.499999 -1.50819e-6
+  facet normal 0.866026 -0.499999 -1.12602e-6
     outer loop
       vertex -163.372 47.8756 -95.5
-      vertex -164.663 45.6393 -97
+      vertex -165.017 45.0256 -95.5
       vertex -163.726 47.2618 -97
-    endloop
-  endfacet
-  facet normal 0.866026 -0.499999 0
-    outer loop
-      vertex -163.726 47.2618 -97
-      vertex -164.663 45.6393 -97
-      vertex -163.726 47.2618 -97.3
-    endloop
-  endfacet
-  facet normal 0.866026 -0.499999 0
-    outer loop
-      vertex -164.663 45.6393 -97
-      vertex -164.663 45.6393 -97.3
-      vertex -163.726 47.2618 -97.3
-    endloop
-  endfacet
-  facet normal 0.866026 -0.499999 3.88847e-6
-    outer loop
-      vertex -163.726 47.2618 -97.3
-      vertex -164.663 45.6393 -97.3
-      vertex -163.372 47.8756 -97.8818
     endloop
   endfacet
   facet normal 0.866026 -0.5 0
     outer loop
-      vertex -164.663 45.6393 -97.3
       vertex -163.372 47.8756 -98
       vertex -163.372 47.8756 -97.8818
+      vertex -164.663 45.6393 -97.3
+    endloop
+  endfacet
+  facet normal 0.866026 -0.499999 3.88847e-6
+    outer loop
+      vertex -163.372 47.8756 -97.8818
+      vertex -163.726 47.2618 -97.3
+      vertex -164.663 45.6393 -97.3
+    endloop
+  endfacet
+  facet normal 0.866026 -0.499999 0
+    outer loop
+      vertex -164.663 45.6393 -97.3
+      vertex -163.726 47.2618 -97.3
+      vertex -164.663 45.6393 -97
+    endloop
+  endfacet
+  facet normal 0.866026 -0.499999 0
+    outer loop
+      vertex -163.726 47.2618 -97.3
+      vertex -163.726 47.2618 -97
+      vertex -164.663 45.6393 -97
+    endloop
+  endfacet
+  facet normal 0.866026 -0.499999 6.86919e-7
+    outer loop
+      vertex -164.663 45.6393 -97
+      vertex -163.726 47.2618 -97
+      vertex -165.017 45.0256 -96.4182
+    endloop
+  endfacet
+  facet normal 0.866026 -0.499999 0
+    outer loop
+      vertex -163.726 47.2618 -97
+      vertex -165.017 45.0256 -95.5
+      vertex -165.017 45.0256 -96.4182
     endloop
   endfacet
   facet normal 1 0 0
@@ -19746,34 +19746,6 @@ solid Mesh
       vertex -179.114 36.2074 -232
     endloop
   endfacet
-  facet normal -0.866026 -0.499999 0
-    outer loop
-      vertex -158.435 45.0256 -96.4182
-      vertex -158.435 45.0256 -95.5
-      vertex -158.79 45.6393 -97
-    endloop
-  endfacet
-  facet normal -0.866026 -0.499999 -1.15737e-7
-    outer loop
-      vertex -158.435 45.0256 -95.5
-      vertex -160.081 47.8756 -95.5
-      vertex -158.79 45.6393 -97
-    endloop
-  endfacet
-  facet normal -0.866026 -0.499999 0
-    outer loop
-      vertex -158.435 45.0256 -98
-      vertex -158.435 45.0256 -97.8818
-      vertex -160.081 47.8756 -98
-    endloop
-  endfacet
-  facet normal -0.866026 -0.499999 2.8589e-7
-    outer loop
-      vertex -158.435 45.0256 -97.8818
-      vertex -158.79 45.6393 -97.3
-      vertex -160.081 47.8756 -98
-    endloop
-  endfacet
   facet normal -0.866025 -0.500002 0
     outer loop
       vertex -160.081 47.8756 -97.8818
@@ -19781,39 +19753,67 @@ solid Mesh
       vertex -159.726 47.2618 -97.3
     endloop
   endfacet
-  facet normal -0.866026 -0.499999 3.23185e-6
+  facet normal -0.866026 -0.499999 2.41292e-6
     outer loop
       vertex -160.081 47.8756 -98
-      vertex -158.79 45.6393 -97.3
+      vertex -158.435 45.0256 -98
       vertex -159.726 47.2618 -97.3
     endloop
   endfacet
   facet normal -0.866026 -0.499999 0
     outer loop
-      vertex -159.726 47.2618 -97.3
-      vertex -158.79 45.6393 -97.3
-      vertex -159.726 47.2618 -97
-    endloop
-  endfacet
-  facet normal -0.866026 -0.499999 0
-    outer loop
-      vertex -158.79 45.6393 -97.3
-      vertex -158.79 45.6393 -97
-      vertex -159.726 47.2618 -97
-    endloop
-  endfacet
-  facet normal -0.866026 -0.499999 -3.88847e-6
-    outer loop
-      vertex -159.726 47.2618 -97
-      vertex -158.79 45.6393 -97
-      vertex -160.081 47.8756 -96.4182
-    endloop
-  endfacet
-  facet normal -0.866026 -0.5 0
-    outer loop
-      vertex -158.79 45.6393 -97
       vertex -160.081 47.8756 -95.5
       vertex -160.081 47.8756 -96.4182
+      vertex -158.435 45.0256 -95.5
+    endloop
+  endfacet
+  facet normal -0.866025 -0.5 -2.16674e-6
+    outer loop
+      vertex -160.081 47.8756 -96.4182
+      vertex -159.726 47.2618 -97
+      vertex -158.435 45.0256 -95.5
+    endloop
+  endfacet
+  facet normal -0.866026 -0.499999 0
+    outer loop
+      vertex -158.435 45.0256 -96.4182
+      vertex -158.435 45.0256 -95.5
+      vertex -158.79 45.6393 -97
+    endloop
+  endfacet
+  facet normal -0.866026 -0.499999 2.6643e-7
+    outer loop
+      vertex -158.435 45.0256 -95.5
+      vertex -159.726 47.2618 -97
+      vertex -158.79 45.6393 -97
+    endloop
+  endfacet
+  facet normal -0.866026 -0.499999 0
+    outer loop
+      vertex -158.79 45.6393 -97
+      vertex -159.726 47.2618 -97
+      vertex -158.79 45.6393 -97.3
+    endloop
+  endfacet
+  facet normal -0.866026 -0.499999 0
+    outer loop
+      vertex -159.726 47.2618 -97
+      vertex -159.726 47.2618 -97.3
+      vertex -158.79 45.6393 -97.3
+    endloop
+  endfacet
+  facet normal -0.866026 -0.499999 -6.86919e-7
+    outer loop
+      vertex -158.79 45.6393 -97.3
+      vertex -159.726 47.2618 -97.3
+      vertex -158.435 45.0256 -97.8818
+    endloop
+  endfacet
+  facet normal -0.866026 -0.499999 0
+    outer loop
+      vertex -159.726 47.2618 -97.3
+      vertex -158.435 45.0256 -98
+      vertex -158.435 45.0256 -97.8818
     endloop
   endfacet
   facet normal 0.866019 0 -0.500011
@@ -22917,20 +22917,6 @@ solid Mesh
       vertex -110.017 45.0256 -97.8818
     endloop
   endfacet
-  facet normal 0.866025 -0.500002 0
-    outer loop
-      vertex -108.372 47.8756 -96.4182
-      vertex -108.372 47.8756 -95.5
-      vertex -108.726 47.2618 -97
-    endloop
-  endfacet
-  facet normal 0.866026 -0.499999 -1.12602e-6
-    outer loop
-      vertex -108.372 47.8756 -95.5
-      vertex -110.017 45.0256 -95.5
-      vertex -108.726 47.2618 -97
-    endloop
-  endfacet
   facet normal 0.866026 -0.499999 0
     outer loop
       vertex -110.017 45.0256 -97.8818
@@ -22949,12 +22935,26 @@ solid Mesh
     outer loop
       vertex -110.017 45.0256 -95.5
       vertex -110.017 45.0256 -96.4182
+      vertex -108.372 47.8756 -95.5
+    endloop
+  endfacet
+  facet normal 0.866026 -0.499999 -2.22706e-7
+    outer loop
+      vertex -110.017 45.0256 -96.4182
+      vertex -109.663 45.6393 -97
+      vertex -108.372 47.8756 -95.5
+    endloop
+  endfacet
+  facet normal 0.866025 -0.500002 0
+    outer loop
+      vertex -108.372 47.8756 -96.4182
+      vertex -108.372 47.8756 -95.5
       vertex -108.726 47.2618 -97
     endloop
   endfacet
-  facet normal 0.866026 -0.499999 6.86919e-7
+  facet normal 0.866026 -0.499999 -1.50819e-6
     outer loop
-      vertex -110.017 45.0256 -96.4182
+      vertex -108.372 47.8756 -95.5
       vertex -109.663 45.6393 -97
       vertex -108.726 47.2618 -97
     endloop
@@ -23087,6 +23087,20 @@ solid Mesh
   endfacet
   facet normal -0.866026 -0.499999 0
     outer loop
+      vertex -94.4353 45.0256 -98
+      vertex -94.4353 45.0256 -97.8818
+      vertex -96.0808 47.8756 -98
+    endloop
+  endfacet
+  facet normal -0.866026 -0.499999 2.8589e-7
+    outer loop
+      vertex -94.4353 45.0256 -97.8818
+      vertex -94.7897 45.6393 -97.3
+      vertex -96.0808 47.8756 -98
+    endloop
+  endfacet
+  facet normal -0.866026 -0.499999 0
+    outer loop
       vertex -94.4353 45.0256 -96.4182
       vertex -94.4353 45.0256 -95.5
       vertex -94.7897 45.6393 -97
@@ -23106,53 +23120,39 @@ solid Mesh
       vertex -95.7264 47.2618 -97.3
     endloop
   endfacet
-  facet normal -0.866026 -0.499999 2.41292e-6
+  facet normal -0.866026 -0.499999 3.23185e-6
     outer loop
       vertex -96.0808 47.8756 -98
-      vertex -94.4353 45.0256 -98
+      vertex -94.7897 45.6393 -97.3
       vertex -95.7264 47.2618 -97.3
     endloop
   endfacet
-  facet normal -0.866026 -0.5 0
+  facet normal -0.866026 -0.499999 0
     outer loop
-      vertex -96.0808 47.8756 -95.5
-      vertex -96.0808 47.8756 -96.4182
+      vertex -95.7264 47.2618 -97.3
+      vertex -94.7897 45.6393 -97.3
+      vertex -95.7264 47.2618 -97
+    endloop
+  endfacet
+  facet normal -0.866026 -0.499999 0
+    outer loop
+      vertex -94.7897 45.6393 -97.3
       vertex -94.7897 45.6393 -97
+      vertex -95.7264 47.2618 -97
     endloop
   endfacet
   facet normal -0.866026 -0.499999 -3.88847e-6
     outer loop
+      vertex -95.7264 47.2618 -97
+      vertex -94.7897 45.6393 -97
       vertex -96.0808 47.8756 -96.4182
-      vertex -95.7264 47.2618 -97
-      vertex -94.7897 45.6393 -97
     endloop
   endfacet
-  facet normal -0.866026 -0.499999 0
+  facet normal -0.866026 -0.5 0
     outer loop
       vertex -94.7897 45.6393 -97
-      vertex -95.7264 47.2618 -97
-      vertex -94.7897 45.6393 -97.3
-    endloop
-  endfacet
-  facet normal -0.866026 -0.499999 0
-    outer loop
-      vertex -95.7264 47.2618 -97
-      vertex -95.7264 47.2618 -97.3
-      vertex -94.7897 45.6393 -97.3
-    endloop
-  endfacet
-  facet normal -0.866026 -0.499999 -6.86919e-7
-    outer loop
-      vertex -94.7897 45.6393 -97.3
-      vertex -95.7264 47.2618 -97.3
-      vertex -94.4353 45.0256 -97.8818
-    endloop
-  endfacet
-  facet normal -0.866026 -0.499999 0
-    outer loop
-      vertex -95.7264 47.2618 -97.3
-      vertex -94.4353 45.0256 -98
-      vertex -94.4353 45.0256 -97.8818
+      vertex -96.0808 47.8756 -95.5
+      vertex -96.0808 47.8756 -96.4182
     endloop
   endfacet
   facet normal 0 -1 0
@@ -23890,20 +23890,6 @@ solid Mesh
       vertex -211.261 -44.3559 -234.13
     endloop
   endfacet
-  facet normal -0.866026 0.499999 0
-    outer loop
-      vertex -103.435 45.0256 -95.5
-      vertex -103.435 45.0256 -96.4182
-      vertex -105.081 42.1756 -95.5
-    endloop
-  endfacet
-  facet normal -0.866025 0.5 2.16674e-6
-    outer loop
-      vertex -103.435 45.0256 -96.4182
-      vertex -103.79 44.4118 -97
-      vertex -105.081 42.1756 -95.5
-    endloop
-  endfacet
   facet normal -0.866025 0.500002 0
     outer loop
       vertex -103.435 45.0256 -97.8818
@@ -23916,6 +23902,20 @@ solid Mesh
       vertex -103.435 45.0256 -98
       vertex -105.081 42.1756 -98
       vertex -103.79 44.4118 -97.3
+    endloop
+  endfacet
+  facet normal -0.866026 0.499999 0
+    outer loop
+      vertex -103.435 45.0256 -95.5
+      vertex -103.435 45.0256 -96.4182
+      vertex -105.081 42.1756 -95.5
+    endloop
+  endfacet
+  facet normal -0.866025 0.5 2.16674e-6
+    outer loop
+      vertex -103.435 45.0256 -96.4182
+      vertex -103.79 44.4118 -97
+      vertex -105.081 42.1756 -95.5
     endloop
   endfacet
   facet normal -0.86603 0.499991 0
@@ -23960,20 +23960,6 @@ solid Mesh
       vertex -105.081 42.1756 -97.8818
     endloop
   endfacet
-  facet normal 0.866025 0.500002 0
-    outer loop
-      vertex -165.017 45.0256 -96.4182
-      vertex -165.017 45.0256 -95.5
-      vertex -164.663 44.4118 -97
-    endloop
-  endfacet
-  facet normal 0.866026 0.499999 1.12602e-6
-    outer loop
-      vertex -165.017 45.0256 -95.5
-      vertex -163.372 42.1756 -95.5
-      vertex -164.663 44.4118 -97
-    endloop
-  endfacet
   facet normal 0.866026 0.499999 0
     outer loop
       vertex -163.372 42.1756 -97.8818
@@ -23988,46 +23974,60 @@ solid Mesh
       vertex -163.726 42.7893 -97.3
     endloop
   endfacet
-  facet normal 0.866026 0.499999 0
+  facet normal 0.866025 0.500002 0
     outer loop
+      vertex -165.017 45.0256 -96.4182
+      vertex -165.017 45.0256 -95.5
+      vertex -164.663 44.4118 -97
+    endloop
+  endfacet
+  facet normal 0.866026 0.499999 1.12602e-6
+    outer loop
+      vertex -165.017 45.0256 -95.5
       vertex -163.372 42.1756 -95.5
-      vertex -163.372 42.1756 -96.4182
       vertex -164.663 44.4118 -97
-    endloop
-  endfacet
-  facet normal 0.866026 0.499999 -6.86919e-7
-    outer loop
-      vertex -163.372 42.1756 -96.4182
-      vertex -163.726 42.7893 -97
-      vertex -164.663 44.4118 -97
-    endloop
-  endfacet
-  facet normal 0.866026 0.499999 0
-    outer loop
-      vertex -164.663 44.4118 -97
-      vertex -163.726 42.7893 -97
-      vertex -164.663 44.4118 -97.3
-    endloop
-  endfacet
-  facet normal 0.866026 0.499999 0
-    outer loop
-      vertex -163.726 42.7893 -97
-      vertex -163.726 42.7893 -97.3
-      vertex -164.663 44.4118 -97.3
-    endloop
-  endfacet
-  facet normal 0.866026 0.499999 -3.88847e-6
-    outer loop
-      vertex -164.663 44.4118 -97.3
-      vertex -163.726 42.7893 -97.3
-      vertex -165.017 45.0256 -97.8818
     endloop
   endfacet
   facet normal 0.866026 0.5 0
     outer loop
-      vertex -163.726 42.7893 -97.3
       vertex -165.017 45.0256 -98
       vertex -165.017 45.0256 -97.8818
+      vertex -163.726 42.7893 -97.3
+    endloop
+  endfacet
+  facet normal 0.866026 0.499999 -3.88847e-6
+    outer loop
+      vertex -165.017 45.0256 -97.8818
+      vertex -164.663 44.4118 -97.3
+      vertex -163.726 42.7893 -97.3
+    endloop
+  endfacet
+  facet normal 0.866026 0.499999 0
+    outer loop
+      vertex -163.726 42.7893 -97.3
+      vertex -164.663 44.4118 -97.3
+      vertex -163.726 42.7893 -97
+    endloop
+  endfacet
+  facet normal 0.866026 0.499999 0
+    outer loop
+      vertex -164.663 44.4118 -97.3
+      vertex -164.663 44.4118 -97
+      vertex -163.726 42.7893 -97
+    endloop
+  endfacet
+  facet normal 0.866026 0.499999 -6.86919e-7
+    outer loop
+      vertex -163.726 42.7893 -97
+      vertex -164.663 44.4118 -97
+      vertex -163.372 42.1756 -96.4182
+    endloop
+  endfacet
+  facet normal 0.866026 0.499999 0
+    outer loop
+      vertex -164.663 44.4118 -97
+      vertex -163.372 42.1756 -95.5
+      vertex -163.372 42.1756 -96.4182
     endloop
   endfacet
   facet normal 0 1 0
@@ -24494,30 +24494,16 @@ solid Mesh
   endfacet
   facet normal 0 -1 0
     outer loop
-      vertex -163.372 47.8756 -95.5
-      vertex -163.372 47.8756 -96.4182
-      vertex -160.081 47.8756 -95.5
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-      vertex -163.372 47.8756 -96.4182
-      vertex -162.663 47.8756 -97
-      vertex -160.081 47.8756 -95.5
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-      vertex -163.372 47.8756 -97.8818
-      vertex -163.372 47.8756 -98
-      vertex -162.663 47.8756 -97.3
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-      vertex -163.372 47.8756 -98
       vertex -160.081 47.8756 -98
-      vertex -162.663 47.8756 -97.3
+      vertex -160.081 47.8756 -97.8818
+      vertex -163.372 47.8756 -98
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex -160.081 47.8756 -97.8818
+      vertex -160.789 47.8756 -97.3
+      vertex -163.372 47.8756 -98
     endloop
   endfacet
   facet normal 0 -1 0
@@ -24530,36 +24516,50 @@ solid Mesh
   facet normal 0 -1 0
     outer loop
       vertex -160.081 47.8756 -95.5
-      vertex -162.663 47.8756 -97
+      vertex -163.372 47.8756 -95.5
       vertex -160.789 47.8756 -97
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
+      vertex -163.372 47.8756 -97.8818
+      vertex -163.372 47.8756 -98
+      vertex -162.663 47.8756 -97.3
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex -163.372 47.8756 -98
+      vertex -160.789 47.8756 -97.3
+      vertex -162.663 47.8756 -97.3
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex -162.663 47.8756 -97.3
+      vertex -160.789 47.8756 -97.3
+      vertex -162.663 47.8756 -97
+    endloop
+  endfacet
+  facet normal 0 -1 0
+    outer loop
+      vertex -160.789 47.8756 -97.3
       vertex -160.789 47.8756 -97
       vertex -162.663 47.8756 -97
-      vertex -160.789 47.8756 -97.3
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
       vertex -162.663 47.8756 -97
-      vertex -162.663 47.8756 -97.3
-      vertex -160.789 47.8756 -97.3
+      vertex -160.789 47.8756 -97
+      vertex -163.372 47.8756 -96.4182
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-      vertex -160.789 47.8756 -97.3
-      vertex -162.663 47.8756 -97.3
-      vertex -160.081 47.8756 -97.8818
-    endloop
-  endfacet
-  facet normal 0 -1 0
-    outer loop
-      vertex -162.663 47.8756 -97.3
-      vertex -160.081 47.8756 -98
-      vertex -160.081 47.8756 -97.8818
+      vertex -160.789 47.8756 -97
+      vertex -163.372 47.8756 -95.5
+      vertex -163.372 47.8756 -96.4182
     endloop
   endfacet
   facet normal 0.0646677 -0.997907 0
@@ -24655,6 +24655,13 @@ solid Mesh
   endfacet
   facet normal 0 0 -1
     outer loop
+      vertex -165.017 45.0256 -98
+      vertex -163.372 42.1756 -98
+      vertex -174.425 43.1723 -98
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
       vertex -158.435 45.0256 -98
       vertex -158.491 43.1723 -98
       vertex -160.081 42.1756 -98
@@ -24704,6 +24711,13 @@ solid Mesh
   endfacet
   facet normal 0 0 -1
     outer loop
+      vertex -165.017 45.0256 -98
+      vertex -174.425 43.1723 -98
+      vertex -163.372 47.8756 -98
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
       vertex -158.435 45.0256 -98
       vertex -160.081 47.8756 -98
       vertex -158.491 50.2723 -98
@@ -24725,23 +24739,9 @@ solid Mesh
   endfacet
   facet normal 0 0 -1
     outer loop
+      vertex -163.372 47.8756 -98
+      vertex -174.425 43.1723 -98
       vertex -174.425 50.2723 -98
-      vertex -163.372 47.8756 -98
-      vertex -174.425 43.1723 -98
-    endloop
-  endfacet
-  facet normal 0 0 -1
-    outer loop
-      vertex -163.372 47.8756 -98
-      vertex -165.017 45.0256 -98
-      vertex -174.425 43.1723 -98
-    endloop
-  endfacet
-  facet normal 0 0 -1
-    outer loop
-      vertex -174.425 43.1723 -98
-      vertex -165.017 45.0256 -98
-      vertex -163.372 42.1756 -98
     endloop
   endfacet
   facet normal 0 0 -1
@@ -24844,6 +24844,13 @@ solid Mesh
   endfacet
   facet normal 0 0 -1
     outer loop
+      vertex -108.372 47.8756 -98
+      vertex -109.225 50.2723 -98
+      vertex -105.081 47.8756 -98
+    endloop
+  endfacet
+  facet normal 0 0 -1
+    outer loop
       vertex -105.081 47.8756 -98
       vertex -103.084 50.2723 -98
       vertex -103.435 45.0256 -98
@@ -24861,13 +24868,6 @@ solid Mesh
       vertex -103.435 45.0256 -98
       vertex -103.084 43.1723 -98
       vertex -105.081 42.1756 -98
-    endloop
-  endfacet
-  facet normal 0 0 -1
-    outer loop
-      vertex -108.372 47.8756 -98
-      vertex -109.225 50.2723 -98
-      vertex -105.081 47.8756 -98
     endloop
   endfacet
   facet normal 0 0 -1
