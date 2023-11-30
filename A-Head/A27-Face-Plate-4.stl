@@ -13054,7 +13054,7 @@ solid Mesh
       vertex 98.5021 23.2867 5.66644
     endloop
   endfacet
-  facet normal 0.478638 0.866326 -0.142776
+  facet normal 0.478638 0.866326 -0.142777
     outer loop
       vertex 99.5112 22.6844 5.39443
       vertex 96.4865 22.6844 -4.74536

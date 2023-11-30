@@ -54309,26 +54309,26 @@ solid Mesh
     outer loop
       vertex -29.6 -18.0635 0.613751
       vertex -29.9 -18.0635 0.613751
-      vertex -29.6 -18 2.20172e-16
+      vertex -29.6 -18 -4.45962e-16
     endloop
   endfacet
-  facet normal 7.86487e-16 -0.994698 -0.102837
+  facet normal 1.07248e-16 -0.994698 -0.102837
     outer loop
       vertex -29.9 -18.0635 0.613751
-      vertex -29.9 -18 -2.07697e-15
-      vertex -29.6 -18 2.20172e-16
+      vertex -29.9 -18 -7.44702e-16
+      vertex -29.6 -18 -4.45962e-16
     endloop
   endfacet
-  facet normal -7.8744e-16 -0.994698 0.102837
+  facet normal -1.02405e-16 -0.994698 0.102837
     outer loop
-      vertex -29.6 -18 2.20172e-16
-      vertex -29.9 -18 -2.07697e-15
+      vertex -29.6 -18 -4.45962e-16
+      vertex -29.9 -18 -7.44702e-16
       vertex -29.6 -18.0635 -0.613751
     endloop
   endfacet
   facet normal 0 -0.994698 0.102837
     outer loop
-      vertex -29.9 -18 -2.07697e-15
+      vertex -29.9 -18 -7.44702e-16
       vertex -29.9 -18.0635 -0.613751
       vertex -29.6 -18.0635 -0.613751
     endloop
@@ -63730,13 +63730,13 @@ solid Mesh
   facet normal 0.445311 -0.890629 0.092078
     outer loop
       vertex -29.0182 -17.7091 2.1684e-16
-      vertex -29.6 -18 2.20172e-16
+      vertex -29.6 -18 -4.45962e-16
       vertex -29.6 -18.0635 -0.613751
     endloop
   endfacet
   facet normal 0.445311 -0.890629 -0.092078
     outer loop
-      vertex -29.6 -18 2.20172e-16
+      vertex -29.6 -18 -4.45962e-16
       vertex -29.0182 -17.7091 2.1684e-16
       vertex -29.6 -18.0635 0.613751
     endloop
@@ -63744,13 +63744,13 @@ solid Mesh
   facet normal -0.445311 -0.890629 -0.092078
     outer loop
       vertex -30.4818 -17.7091 2.1684e-16
-      vertex -29.9 -18 -2.07697e-15
+      vertex -29.9 -18 -7.44702e-16
       vertex -29.9 -18.0635 0.613751
     endloop
   endfacet
   facet normal -0.445311 -0.890629 0.092078
     outer loop
-      vertex -29.9 -18 -2.07697e-15
+      vertex -29.9 -18 -7.44702e-16
       vertex -30.4818 -17.7091 2.1684e-16
       vertex -29.9 -18.0635 -0.613751
     endloop
